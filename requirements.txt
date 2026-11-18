@@ -1,0 +1,16 @@
+# Original notebook pins (other libraries supplied by Google Colab may vary)
+datasets==4.8.5
+stanza==1.15.0
+gensim==4.4.0
+wordcloud>=1.9,<2
+transformers==4.57.6
+sentencepiece>=0.2,<1
+# Additional imports used by notebook
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+nltk
+torch
